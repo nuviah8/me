@@ -1,0 +1,53 @@
+body {
+    background-color:ghostwhite;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+
+
+/* Header */
+.header {
+    font-size:20px;
+    color:rgb(115, 20, 198);
+    font-family: 'Irish Grover', cursive;
+    text-align: center;
+} 
+
+
+/* Everythng else */
+h1 {
+    font-size:25px;
+    color:rgb(115, 20, 198);
+    /* background-color:rgb(115, 20, 198); */
+    font-family: 'Irish Grover', cursive;
+    text-align: center;
+}
+
+h2 {
+    font-size:25px;
+    color:rgb(115, 20, 198);
+    font-family: 'Irish Grover', cursive;
+    text-align: center;
+}
+
+p1{
+    font-size:15px;
+    color:rgb(115, 20, 198);
+    font-family:monospace;
+}
+
+/* Un-ordered List */
+ul {
+    font-size:15px;
+    color:rgb(115, 20, 198);
+    font-family:monospace;
+    list-style-type: square; /* R4 Step 1*/
+}
+
+/* Color of email link */
+a {
+    color:rgb(115, 20, 198);
+}
